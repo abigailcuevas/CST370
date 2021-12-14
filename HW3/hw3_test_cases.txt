@@ -1,0 +1,96 @@
+1. Hidden test cases of hw3_1.cpp
+      Test case 4:
+        Input
+            23:59:59
+            01:00:01
+
+        Output
+            01:00:00
+
+
+      Test case 5:
+        Input
+            00:00:00
+            23:59:59
+
+        Output
+            23:59:59
+
+
+      Test case 6:
+        Input
+            00:12:34
+            01:00:00
+
+        Output
+            01:12:34
+
+============================================
+
+2. Hidden test cases of hw3_2.cpp
+      Test case 4:
+        Input
+            1
+            AAA
+
+        Output
+            0:0:EMPTY
+            1:1:AAA
+
+
+      Test case 5:
+        Input
+            3
+            A C370 THIS_IS_A_LONG_STRING_CAN_YOU_HANDLE_THIS_?
+
+        Output
+            0:000:EMPTY
+            1:001:THIS_IS_A_LONG_STRING_CAN_YOU_HANDLE_THIS_?
+            2:010:C370
+            3:011:C370 THIS_IS_A_LONG_STRING_CAN_YOU_HANDLE_THIS_?
+            4:100:A
+            5:101:A THIS_IS_A_LONG_STRING_CAN_YOU_HANDLE_THIS_?
+            6:110:A C370
+            7:111:A C370 THIS_IS_A_LONG_STRING_CAN_YOU_HANDLE_THIS_?
+
+
+      Test case 6:
+        Input
+            5
+            E D C B A
+
+        Output
+            0:00000:EMPTY
+            1:00001:A
+            2:00010:B
+            3:00011:B A
+            4:00100:C
+            5:00101:C A
+            6:00110:C B
+            7:00111:C B A
+            8:01000:D
+            9:01001:D A
+            10:01010:D B
+            11:01011:D B A
+            12:01100:D C
+            13:01101:D C A
+            14:01110:D C B
+            15:01111:D C B A
+            16:10000:E
+            17:10001:E A
+            18:10010:E B
+            19:10011:E B A
+            20:10100:E C
+            21:10101:E C A
+            22:10110:E C B
+            23:10111:E C B A
+            24:11000:E D
+            25:11001:E D A
+            26:11010:E D B
+            27:11011:E D B A
+            28:11100:E D C
+            29:11101:E D C A
+            30:11110:E D C B
+            31:11111:E D C B A
+
+============================================
