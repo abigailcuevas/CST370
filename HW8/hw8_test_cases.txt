@@ -1,0 +1,120 @@
+1. Hidden test cases of hw8_1.cpp
+      Test case 4:
+        Input
+            7
+            10 20 30 40 -50 -60 -70
+
+        Output
+            -70 -60 -50 40 30 20 10
+            -50 -60 -70 40 10 20 30
+
+
+      Test case 5:
+        Input
+            6
+            10 -20 30 -40 50 -60
+
+        Output
+            -60 -20 -40 30 50 10
+            -20 -40 -60 10 50 30
+
+
+      Test case 6:
+        Input
+            1
+            20
+
+        Output
+            20
+            20
+
+============================================
+
+2. Hidden test cases of hw8_2.cpp
+      Test case 4:
+        Input
+            30
+            14
+            isBST
+            append 10
+            isBST
+            append 50
+            append 5
+            append 20
+            append 40
+            append 70
+            findFirstNode
+            append 80
+            isBST
+            findFirstNode
+            append 90
+            levelOrder
+
+        Output
+            true
+            true
+            5
+            false
+            80
+            30 10 50 5 20 40 70 80 90
+
+
+      Test case 5:
+        Input
+            10
+            14
+            append 20
+            findFirstNode
+            append 30
+            append 40
+            findFirstNode
+            append 50
+            append 60
+            append 70
+            findFirstNode
+            preOrder
+            append 80
+            append 90
+            height
+            levelOrder
+
+        Output
+            20
+            40
+            40
+            10 20 40 50 30 60 70
+            3
+            10 20 30 40 50 60 70 80 90
+
+
+      Test case 6:
+        Input
+            55555
+            15
+            isBST
+            append 1
+            isBST
+            append 77777
+            isBST
+            append 0
+            isBST
+            append 44444
+            isBST
+            append 66666
+            isBST
+            append 88888
+            isBST
+            append 2
+            isBST
+
+        Output
+            true
+            true
+            true
+            true
+            true
+            true
+            true
+            false
+
+============================================
