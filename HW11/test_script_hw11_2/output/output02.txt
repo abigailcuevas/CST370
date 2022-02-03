@@ -1,0 +1,2 @@
+Best set:2 4 6 8 10
+Max value:60

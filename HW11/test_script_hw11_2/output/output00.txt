@@ -1,0 +1,2 @@
+Best set:1 4 6
+Max value:17

@@ -1,0 +1,18 @@
+29
+16
+insert 30
+insert 31
+insert 32
+insert 33
+insert 34
+delete 30
+delete 31
+delete 32
+delete 33
+delete 34
+search 31
+displayStatus 2
+insert 30
+insert 31
+displayStatus 2
+search 31
