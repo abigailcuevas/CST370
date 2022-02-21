@@ -1,8 +1,6 @@
 /*
 *Title: hw1_2.cpp
 *Abstract: Program reads inputted number from user and displays the number(s) that occurs the most frequently.
-*Author: Abigail Cuevas
-*ID: 9999
 *Date: 08/28/2021
 */
 #include <iostream>
