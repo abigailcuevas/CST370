@@ -1,8 +1,6 @@
 /*
 *Title: hw1_1.cpp
 *Abstract: Program reads input numbers from user and displays the closest distance between two numbers among all input numbers.
-*Author: Abigail Cuevas
-*ID: 9999
 *Date: 08/27/2021
 */
 
