@@ -1,8 +1,6 @@
 /*
 *Title: hw3_1.cpp
 *Abstract:Program reads two timestamps from a user. For the timestamps,  program should display the final timestamp after the addition.
-*Name: Abigail Cuevas
-*ID: 9999
 *Date: 09/12/2021
 */
 #include <iostream>
