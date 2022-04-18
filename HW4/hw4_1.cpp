@@ -1,8 +1,6 @@
 /*
 *Title: hw4_1.cpp
 *Abstract: Program converts a directed graph from a user into a corresponding adjacency list format.
-*Author; Abigail Cuevas
-*ID: 9999
 *Date: 09/20/2021
 */
 #include <iostream>
