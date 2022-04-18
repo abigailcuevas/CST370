@@ -2,10 +2,7 @@
 *Title: hw9_2.cpp
 *Abstract: Program connects several connected components of a graph with 
 *minimum number of edges to create a single connected component of the graph.
-*Name: Abigail Cuevas
-*ID: 9999
 *Date: 11/07/2021
-*References: https://www.geeksforgeeks.org/bfs-disconnected-graph/
 */
 #include <iostream>
 #include <algorithm>
