@@ -1,8 +1,6 @@
 /*
 *Title: hw3_2.cpp
 *Abstract: Program read the number of elements in a set. It will the display the decimal number, the binary number, and the subset one by one.
-*Name: Abigail Cuevas
-*ID: 9999
 *Date: 09/12/2021
 */
 
