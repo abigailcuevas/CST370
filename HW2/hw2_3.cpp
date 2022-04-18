@@ -1,8 +1,6 @@
 /*
 *Title: hw2_3.cpp
 *Abstract: Program checks if an input string is a palindrome or not.
-*Author: Abigail Cuevas
-*ID: 9999
 *Date: 09/06/2021
 */
 
