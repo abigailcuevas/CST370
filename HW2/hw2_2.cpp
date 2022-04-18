@@ -1,8 +1,6 @@
 /*
 *Title: hw2_2.cpp
 *Abstract: Program checks if two strings are anagram or not.
-*Author: Abigail Cuevas
-*ID: 9999
 *Date: 09/06/2021
 */
 
