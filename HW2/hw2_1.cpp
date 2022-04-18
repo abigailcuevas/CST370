@@ -1,8 +1,6 @@
 /*
 *Title: hw2_1.cpp
 *Abstract: Program reads a set of ranges of two numbers from a user and displays the intersection of all ranges.
-*Author: Abigail Cuevas
-*ID: 9999
 *Date: 09/06/2021
 */
 #include <iostream>
