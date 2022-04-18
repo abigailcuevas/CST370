@@ -2,8 +2,6 @@
 *Title: hw4_2.cpp
 *Abstract: Program that solves the Knapsack problem. The user inputs the number of items for the knapsack and then the knapsacks capacity.
 *After the user will input each items capacity and value. The program with them determine the best subset
-*Author: Abigail Cuevas
-*ID: 9999
 *Date: 09/20/2021
 */
 
